@@ -1,0 +1,13 @@
+{
+    "name": "nathanchapelle/quest2",
+    "description": "Quest 2 composer",
+    "authors": [
+        {
+            "name": "Chapelle Nathan",
+            "email": "nathanchapelle76@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
